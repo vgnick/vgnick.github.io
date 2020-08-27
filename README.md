@@ -1,4 +1,4 @@
-![Image of Nick Van Gilder](images/me.jpg
+![Image of Nick Van Gilder](images/Me1.jpg
 "Nick VG")
 ## About Me
 I am a Master's student in the UConn Ecology and Evolutionary Biology department.
